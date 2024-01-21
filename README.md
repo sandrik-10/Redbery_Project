@@ -9,9 +9,7 @@ if he registers, he can also create a new blog, which is completely logical.
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Configuration](#configuration)
 - [Endpoints](#endpoints)
 - [Authentication](#authentication)
